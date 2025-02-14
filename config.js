@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Éo. Dỗi',
     question: 'Thế giờ có đi ra gặp tớ khum nào, đang hồ r',
     btnReply: 'Gửi cho HMH <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tớ ra luôn đây HMH đẹp trai nhất vũ trụ :3',
     mess: 'Viết gì thì cũng phải ra hoi',
     messDesc: 'Ra đi có quà đấy',
     btnAccept: 'vào mess để chửi HMH',
